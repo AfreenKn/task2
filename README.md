@@ -20,9 +20,7 @@ This is a simple To-Do List application built using HTML, CSS, and JavaScript (V
 1. Clone this repository or download the code
 2. Open `index.html` in your browser (preferably with Live Server)
 
-## 📸 Screenshot
 
-![To-Do List Screenshot](screenshot.png)
 
 ## 👩‍💻 By Afreen Khatoon
 
